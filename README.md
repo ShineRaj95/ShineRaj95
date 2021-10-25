@@ -1,5 +1,5 @@
 
-[![MasterHead](https://drive.google.com/file/d/1mfut9va66WtLgwKFQp7JuqGmqP22vfxB/view?usp=sharing)](https://khushboogoel01.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/https://drive.google.com/file/d/1mfut9va66WtLgwKFQp7JuqGmqP22vfxB/view?usp=sharing)](https://github.com/ShineRaj95)
 <h1 align="center">Hi 👋, I'm Shine Raj Sukumaran</h1>
 <h3 align="center">A Guy trying to Figure-Out Stuff!!</h3>
 
